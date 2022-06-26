@@ -7,7 +7,11 @@ A enthusiastic student of computer systems :computer:
 - :sunglasses: Nickname: Jonnhy
 
 Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><code>
+  
+  <!--
 https://www.w3schools.com/cs/ , https://www.w3schools.com/css/ , https://www.w3.org/html/ , https://www.java.com/ , https://getbootstrap.com/ , https://www.figma.com/ ,
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAL003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
