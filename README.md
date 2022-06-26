@@ -2,7 +2,7 @@
 ### Hi 👋, I'm Jonathan Alonso
 A enthusiastic student of computer systems :computer: 
 
-- 🔭 I’m currently working on: https://github.com/ZTStudios/ClimaITNL
+- 🔭 I’m currently working on: <a href="https://github.com/ZTStudios/ClimaITNL">ClimaITNL</a>
 - 🌱 I’m currently learning: ...
 - :sunglasses: Nickname: Jonnhy
 
