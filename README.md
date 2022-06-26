@@ -2,7 +2,7 @@
 ### Hi 👋, I'm Jonathan Alonso
 A enthusiastic student of computer systems :computer: 
 
-![](https://komarev.com/ghpvc/?username=JonathanAL003)
+![](https://komarev.com/ghpvc/?username=JonathanAL003&style=plastic)
 
 - 🔭 I’m currently working on: <a href="https://github.com/ZTStudios/ClimaITNL">ClimaITNL</a>
 - 🌱 I’m currently learning: ...
