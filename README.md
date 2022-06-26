@@ -1,11 +1,10 @@
-![cd6b28345bb056db958c5a7b24277143](https://user-images.githubusercontent.com/71142996/175819217-aeb9b029-c3df-438a-9e56-5c0b086697c5.gif)
-### Hi 👋, I'm Jonathan Alonso
-A enthusiastic student of computer systems :computer: 
+<p align="center"> <img src="https://user-images.githubusercontent.com/71142996/175819217-aeb9b029-c3df-438a-9e56-5c0b086697c5.gif" alt="JonathanAL003"/></p>
+<h1 align="center">Hi 👋, I'm Jonathan Alonso</h1>
+<h3 align="center">A developer and a enthusiastic student :computer: </h3>
 
 ![](https://komarev.com/ghpvc/?username=JonathanAL003&style=plastic)
 
 - 🔭 I’m currently working on: <a href="https://github.com/ZTStudios/ClimaITNL">ClimaITNL</a>
-- 🌱 I’m currently learning: ...
 - :sunglasses: Nickname: Jonnhy
 
 Languages and Tools:
@@ -41,6 +40,7 @@ Languages and Tools:
 <!--
 **JonathanAL003/JonathanAL003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+- 🌱 I’m currently learning: ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
