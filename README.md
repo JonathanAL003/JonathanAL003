@@ -13,11 +13,11 @@ Languages and Tools:
 https://www.w3schools.com/cs/ , https://www.w3schools.com/css/ , https://www.w3.org/html/ , https://www.java.com/ , https://getbootstrap.com/ , https://www.figma.com/ ,
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAL003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAL003&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanAL003)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanAL003&theme=tokyonight&include_all_commits&show_icons)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanAL003)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonathanAL003&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&border=FFFFFF)](https://git.io/streak-stats)
 <!--
 **JonathanAL003/JonathanAL003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
