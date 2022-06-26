@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/71142996/175819217-aeb9b029-c3df-438a-9e56-5c0b086697c5.gif" alt="JonathanAL003"/></p>
 <h1 align="center">Hi 👋, I'm Jonathan Alonso</h1>
-<h3 align="center">A developer and a enthusiastic student :computer: </h3>
+<h3 align="center">:computer: A developer and a enthusiastic student from Mexico</h3>
 
 ![](https://komarev.com/ghpvc/?username=JonathanAL003&style=plastic)
 
