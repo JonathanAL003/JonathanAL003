@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JonathanAL003&style=plastic)
 
-- 🔭 I’m currently working on: <a href="https://github.com/ZTStudios/ClimaITNL">ClimaITNL</a>
+- 🔭 I’m currently working on: <a href="https://github.com/ZTStudios/ClimaITNL">ClimaITNL</a> and <a href="https://github.com/JonathanAL003/Alonso_ProgramacionWeb">Curso de Programacion Web</a>
 - :sunglasses: Nickname: Jonnhy
 
 Languages and Tools:
